@@ -36,4 +36,10 @@ pluginBundle {
             displayName = "VGradle"
         }
     }
+
+    mavenCoordinates {
+        groupId = "ru.levkopo.vgradle"
+        artifactId = "vgradle"
+        version = "1.0"
+    }
 }
