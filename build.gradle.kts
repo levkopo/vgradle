@@ -40,6 +40,6 @@ pluginBundle {
     mavenCoordinates {
         groupId = "ru.levkopo.vgradle"
         artifactId = "vgradle"
-        version = "1.0"
+        version = project.version as String
     }
 }
